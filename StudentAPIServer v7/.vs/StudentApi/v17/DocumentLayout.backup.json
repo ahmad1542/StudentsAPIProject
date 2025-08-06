@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D67ADED0-D380-4104-A002-F2D9A688453E}|StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj|d:\\github repositories\\students api project\\studentapiserver v7\\studentapibusinesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67ADED0-D380-4104-A002-F2D9A688453E}|StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj|solutionrelative:studentapibusinesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|d:\\github repositories\\students api project\\studentapiserver v7\\studentdataaccesslayer\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|solutionrelative:studentdataaccesslayer\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|d:\\github repositories\\students api project\\studentapiserver v7\\studentdataaccesslayer\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|solutionrelative:studentdataaccesslayer\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|d:\\github repositories\\students api project\\studentapiserver v7\\studentdataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|solutionrelative:studentdataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|d:\\github repositories\\students api project\\studentapiserver v7\\studentdataaccesslayer\\repository\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|solutionrelative:studentdataaccesslayer\\repository\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|d:\\github repositories\\students api project\\studentapiserver v7\\myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentApiBusinessLayer\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApiBusinessLayer\\Student.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentApiBusinessLayer\\Student.cs",
+              "RelativeToolTip": "StudentApiBusinessLayer\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T19:56:22.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentDataAccessLayer\\Repository\\StudentRepo.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\Repository\\StudentRepo.cs",
+              "RelativeToolTip": "StudentDataAccessLayer\\Repository\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:36:08.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:13:54.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\Repository\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentDataAccessLayer\\Repository\\IStudentRepo.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\Repository\\IStudentRepo.cs",
+              "RelativeToolTip": "StudentDataAccessLayer\\Repository\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:12:51.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\Models\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "StudentDataAccessLayer\\Models\\StudentDTO.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\Models\\StudentDTO.cs",
+              "RelativeToolTip": "StudentDataAccessLayer\\Models\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:40:45.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentDataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "StudentDataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:37:52.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
