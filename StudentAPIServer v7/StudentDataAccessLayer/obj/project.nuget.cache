@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fvuAbGvOtHE=",
+  "dgSpecHash": "VtfxIyHZnjI=",
   "success": true,
-  "projectFilePath": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj",
+  "projectFilePath": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmad Hussein\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Ahmad Hussein\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

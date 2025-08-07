@@ -2721,11 +2721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj",
+      "projectUniqueName": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj",
       "projectName": "StudentDataAccessLayer",
-      "projectPath": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj",
+      "projectPath": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Ahmad Hussein\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\obj\\",
+      "outputPath": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentDataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|d:\\github repositories\\studentsapiproject\\studentapiserver v7\\myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|d:\\github repositories\\studentsapiproject\\studentapiserver v7\\myfirstrestapi_porject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Program.cs",
+              "ToolTip": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Program.cs",
+              "RelativeToolTip": "MyFirstRestAPI_Porject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:37:06.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:07:40.002Z",
+              "EditorCaption": ""
             }
           ]
         }

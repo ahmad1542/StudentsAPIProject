@@ -2739,11 +2739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj",
+      "projectUniqueName": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj",
       "projectName": "StudentApiBusinessLayer",
-      "projectPath": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj",
+      "projectPath": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Ahmad Hussein\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentApiBusinessLayer\\obj\\",
+      "outputPath": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentApiBusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2764,8 +2764,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj": {
-              "projectPath": "D:\\GitHub Repositories\\Students API Project\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj"
+            "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj": {
+              "projectPath": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj"
             }
           }
         }

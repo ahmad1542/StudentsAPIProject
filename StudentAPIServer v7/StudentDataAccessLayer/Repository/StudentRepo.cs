@@ -19,7 +19,11 @@ namespace StudentDataAccessLayer.Repository {
         }
 
         public async Task<double> GetAverageGrade() {
-            return await _db.Students.AverageAsync(student => student.Grade);
+            try {
+                return await _db.Students.AverageAsync(student => student.Grade);
+            } catch {
+                return 0;
+            }
         }
 
         public async Task<StudentDTO> GetStudentById(int id) {
