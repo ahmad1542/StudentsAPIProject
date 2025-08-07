@@ -60,7 +60,7 @@ namespace StudentApi.Controllers {
             if (newStudent == null || String.IsNullOrEmpty(newStudent.Name) || newStudent.Age <= 0)
                 return BadRequest("Invalid student data!");
 
-            var stId = await _stService.AddStudent(newStudent);
+            await _stService.AddStudent(newStudent);
             return CreatedAtRoute("GetStudentById", new { id = newStudent.Id }, newStudent);
         }
 

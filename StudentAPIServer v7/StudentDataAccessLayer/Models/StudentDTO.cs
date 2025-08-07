@@ -9,13 +9,6 @@ using System.Threading.Tasks;
 namespace StudentDataAccessLayer.Models {
     public class StudentDTO {
 
-        public StudentDTO(int id, string name, int age, int grade) {
-            this.Id = id;
-            this.Name = name;
-            this.Age = age;
-            this.Grade = grade;
-        }
-
         [Key]
         public int Id { get; set; }
 
@@ -24,6 +17,6 @@ namespace StudentDataAccessLayer.Models {
 
         public int Age { get; set; }
 
-        public int Grade { get; set; }
+        public double Grade { get; set; }
     }
 }

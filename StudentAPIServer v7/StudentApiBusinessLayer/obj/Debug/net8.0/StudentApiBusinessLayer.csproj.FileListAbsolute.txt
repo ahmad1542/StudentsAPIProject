@@ -1,0 +1,16 @@
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\bin\Debug\net8.0\StudentApiBusinessLayer.deps.json
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\bin\Debug\net8.0\StudentApiBusinessLayer.dll
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\bin\Debug\net8.0\StudentApiBusinessLayer.pdb
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentApiBusinessLayer.csproj.AssemblyReference.cache
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentApiBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentApiBusinessLayer.AssemblyInfoInputs.cache
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentApiBusinessLayer.AssemblyInfo.cs
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentApiBusinessLayer.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentApiBusinessLayer.sourcelink.json
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentA.7A521644.Up2Date
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentApiBusinessLayer.dll
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\refint\StudentApiBusinessLayer.dll
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\StudentApiBusinessLayer.pdb
+D:\GitHub Repositories\StudentsAPIProject\StudentAPIServer v7\StudentApiBusinessLayer\obj\Debug\net8.0\ref\StudentApiBusinessLayer.dll

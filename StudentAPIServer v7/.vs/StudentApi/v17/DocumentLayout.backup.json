@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|d:\\github repositories\\studentsapiproject\\studentapiserver v7\\myfirstrestapi_porject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E669797-6B35-4255-AD8E-E22E0C9A13AE}|MyFirstRestAPI_Porject\\StudentApi.csproj|solutionrelative:myfirstrestapi_porject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|d:\\github repositories\\studentsapiproject\\studentapiserver v7\\studentdataaccesslayer\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BF498D-2FEB-4552-8081-56EF3533E021}|StudentDataAccessLayer\\StudentDataAccessLayer.csproj|solutionrelative:studentdataaccesslayer\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67ADED0-D380-4104-A002-F2D9A688453E}|StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj|d:\\github repositories\\studentsapiproject\\studentapiserver v7\\studentapibusinesslayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67ADED0-D380-4104-A002-F2D9A688453E}|StudentApiBusinessLayer\\StudentApiBusinessLayer.csproj|solutionrelative:studentapibusinesslayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Program.cs",
-              "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Program.cs",
-              "ToolTip": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Program.cs",
-              "RelativeToolTip": "MyFirstRestAPI_Porject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:37:06.441Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentDataAccessLayer\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentDataAccessLayer\\Repository\\StudentRepo.cs",
+              "ToolTip": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentDataAccessLayer\\Repository\\StudentRepo.cs",
+              "RelativeToolTip": "StudentDataAccessLayer\\Repository\\StudentRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:08:18.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentApiBusinessLayer\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentApiBusinessLayer\\Services\\StudentService.cs",
+              "ToolTip": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\StudentApiBusinessLayer\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentApiBusinessLayer\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:08:15.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
               "ToolTip": "D:\\GitHub Repositories\\StudentsAPIProject\\StudentAPIServer v7\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
               "RelativeToolTip": "MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T14:07:40.002Z",
               "EditorCaption": ""
